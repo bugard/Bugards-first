@@ -1,0 +1,15 @@
+D:\C#\EXAM2_BUGARD\EXAM2_BUGARD\bin\Debug\EXAM2_BUGARD.exe.config
+D:\C#\EXAM2_BUGARD\EXAM2_BUGARD\bin\Debug\EXAM2_BUGARD.exe
+D:\C#\EXAM2_BUGARD\EXAM2_BUGARD\bin\Debug\EXAM2_BUGARD.pdb
+D:\C#\EXAM2_BUGARD\EXAM2_BUGARD\obj\Debug\EXAM2_BUGARD.csprojResolveAssemblyReference.cache
+D:\C#\EXAM2_BUGARD\EXAM2_BUGARD\obj\Debug\EXAM2_BUGARD.Form1.resources
+D:\C#\EXAM2_BUGARD\EXAM2_BUGARD\obj\Debug\EXAM2_BUGARD.Properties.Resources.resources
+D:\C#\EXAM2_BUGARD\EXAM2_BUGARD\obj\Debug\EXAM2_BUGARD.csproj.GenerateResource.Cache
+D:\C#\EXAM2_BUGARD\EXAM2_BUGARD\obj\Debug\EXAM2_BUGARD.exe
+D:\C#\EXAM2_BUGARD\EXAM2_BUGARD\obj\Debug\EXAM2_BUGARD.pdb
+C:\Users\BUGARD\Documents\Transcend\C#\EXAM2_BUGARD\EXAM2_BUGARD\bin\Debug\EXAM2_BUGARD.exe.config
+C:\Users\BUGARD\Documents\Transcend\C#\EXAM2_BUGARD\EXAM2_BUGARD\obj\Debug\EXAM2_BUGARD.exe
+C:\Users\BUGARD\Documents\Transcend\C#\EXAM2_BUGARD\EXAM2_BUGARD\obj\Debug\EXAM2_BUGARD.pdb
+C:\Users\BUGARD\Documents\GitHub\Bugards-first\C#\EXAM2_BUGARD\EXAM2_BUGARD\bin\Debug\EXAM2_BUGARD.exe.config
+C:\Users\BUGARD\Documents\GitHub\Bugards-first\C#\EXAM2_BUGARD\EXAM2_BUGARD\obj\Debug\EXAM2_BUGARD.exe
+C:\Users\BUGARD\Documents\GitHub\Bugards-first\C#\EXAM2_BUGARD\EXAM2_BUGARD\obj\Debug\EXAM2_BUGARD.pdb
