@@ -1,2 +1,2 @@
 # Bugards-first
-my first repository
+Examples of Java, C#, VB, HTML, SQL, etc. (includes some class work)
